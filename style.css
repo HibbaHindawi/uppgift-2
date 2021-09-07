@@ -16,13 +16,3 @@ tr:nth-child(odd){background-color: orange;
 color: black;}
 tr:nth-child(even){background-color: red;
 color: white;}
-
-.center{
-    text-align: center;
-}
-.right{
-    text-align: right;
-}
-.left{
-    text-align: left;
-}
